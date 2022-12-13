@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# henrieteB-termone
-=======
+
 # henrieteB-termone
 
 
@@ -25,4 +23,4 @@ You will also see any lint errors in the console.
 
 For the backend , use 
 
->>>>>>> 62f3116c9efe00e9bc428e2b4e34e747f1a6da80
+
